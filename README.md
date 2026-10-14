@@ -4,7 +4,6 @@
 
 # Привет, я Elsa 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=Вайб-кодер;Люблю+опенсорс;Пишу+код+вместе+с+ИИ;Автоматизирую+всё+подряд" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/статус-учусь%20и%20расту-2ea44f?style=flat-square" alt="статус" />
